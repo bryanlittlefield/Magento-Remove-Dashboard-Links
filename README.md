@@ -1,7 +1,7 @@
 Magento Remove Dashboard Links
 ==============================
 
-Remove unwanted links from Account Dashboard Navigation
+###Remove unwanted links from Account Dashboard Navigation
 --------
 
 **Step 1:** GO TO ( YourTemplate/customer/account/navigation.phtml )
