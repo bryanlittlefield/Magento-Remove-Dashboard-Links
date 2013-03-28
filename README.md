@@ -10,7 +10,6 @@ Remove unwanted links from Account Dashboard Navigation
 -----------------------------------------------------
 
 #### With:
------------------------------------------------------
 ```php
 <?php
 /**
