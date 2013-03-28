@@ -9,7 +9,7 @@ Remove unwanted links from Account Dashboard Navigation
 #### Step 2:Replace This Line: *<?php $_count = count($_links); ?>*
 
 
-##### With:
+##### > With:
 ```php
 <?php $_count = count($_links); /* Add or Remove Account Left Navigation Links Here -*/
     unset($_links['account']); /* Account Info */     
