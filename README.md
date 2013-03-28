@@ -3,10 +3,10 @@ Magento Remove Dashboard Links
 
 Remove unwanted links from Account Dashboard Navigation
 
-####GO TO: YourTemplate/customer/account/navigation.phtml
+#####GO TO: YourTemplate/customer/account/navigation.phtml
 -----------------------------------------------------
 
-####Replace This Line: *<?php $_count = count($_links); ?>*
+#####Replace This Line: *<?php $_count = count($_links); ?>*
 -----------------------------------------------------
 
 #### With:
