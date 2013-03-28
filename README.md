@@ -7,7 +7,7 @@ Magento Remove Dashboard Links
 **Step 1:** GO TO ( YourTemplate/customer/account/navigation.phtml )
 
 
-**Step 2:** :Replace This Line: *<?php $_count = count($_links); ?>*
+**Step 2:** Replace This Line: *<?php $_count = count($_links); ?>*
 
 
 #####With:
